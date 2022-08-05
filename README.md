@@ -1,4 +1,4 @@
-# Growth of ice particle mass and projected area during riming (project ended in 2017)
+# Growth of ice particle mass and projected area during riming (project finalized in 2017)
 
 ### Author:
 This package is developed by Ehsan Erfani as part of a chapter of my PhD dissertation and a peer-reviewed paper. 
