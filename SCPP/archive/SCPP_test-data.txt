@@ -1,0 +1,60 @@
+ALL SCPP DATA FOR 1986 (fall) AND 1987 (January)
+
+Beginning 861218 @ 10:25, the higher magnification on the sterio microscope was used to
+image the ice particles (i.e. this data set).  Prior to that date, lower magnification 
+was used and the data quality is inferior.  See Mitchell et al. (1990, JAM).
+
+Note: Confidence rating refers to snow type. From most to least confident => 1, 2, 3. 
+"0" means not applicable.
+
+Temperature of origin refers to the midpoint temperature of the habit regime the ice particle
+corresponds to.  Temperature uncertainty indicates the extent of the habit regime (i.e. the
+midpoint minus temp. uncertainty to the mean plus temp. uncertainty).
+
+For ice particle shape classification, R- indicates ice particle is rimed; -A means the ice
+particle is an aggregate with possibly other less dominant habits present; -F means the ice
+particle is an ice crystal fragment; -FA means the ice particle is an aggregate consisting
+largely of crystal fragments.  For habit classifications, see Magono and Lee scheme in 
+Pruppacher and Klett.
+
+X and Y refer to coordinates on a grid superimposed on a projector screen and were used 
+to locate the particle image on a slide.
+
+
+Date   Time    X     Y      Image  Image  Actual Actual  Mass    Temp.   Temp. Snow  Confidence
+                            ice    drop   ice    drop            of    uncert. type  rating
+                            length length length length          origin
+                            (cm)   (cm)   (mm)   (mm)    (mg)   (deg. C)  (C)
+
+
+861218 1025  53.00   5.00   4.50   2.60    .42    .24  .384E-02  999.00 999.00 R4B      3 
+861218 1025  48.00  32.00  14.40   5.00   1.36    .47  .273E-01  -15.00   1.50 P1D-F    2 
+861218 1025  62.00  40.00   8.50   2.83    .80    .27  .495E-02  999.00 999.00 I4       0 
+861218 1034  53.00  35.00  10.50   3.20    .99    .30  .716E-02   -7.00   1.00 N2C      3 
+861218 1034  85.00  58.00  32.00   9.00   3.01    .85  .159E+00  -15.00   1.50 R-P1E-FA 1 
+861218 1043  25.00   7.00  31.50   5.00   2.97    .47  .273E-01  -15.00   1.50 P1E      1 
+861218 1055  72.00  15.00  11.00   5.70   1.04    .54  .405E-01  -15.00   5.00 R3B-F    2 
+861218 1055  80.00  22.00  16.50   9.20   1.55    .87  .170E+00  -15.00   5.00 R3B-F    2 
+861218 1055  90.00  10.00  38.00   9.58   3.58    .90  .192E+00  -15.00   1.50 P1E-FA   1 
+861218 1055   7.00  32.00   7.40   6.00    .70    .56  .472E-01   -7.00   1.00 R-N2C    2 
+861218 1055  23.00  28.00  13.50   7.00   1.27    .66  .750E-01  999.00 999.00 R4B      2 
+861218 1055  42.00  40.00  11.50   6.90   1.08    .65  .718E-01  999.00 999.00 I4       0 
+861218 1055  58.00  30.00   7.40   5.50    .70    .52  .364E-01  999.00 999.00 R4B      2 
+861218 1055  78.00  36.00   7.20   4.10    .68    .39  .151E-01  999.00 999.00 I4       0 
+861218 1055  83.00  53.00  19.00   9.80   1.79    .92  .206E+00  999.00 999.00 R4B-A    2 
+861218 1105   5.00  14.00   7.30   2.90    .69    .27  .533E-02   -7.00   1.00 N2C      2 
+861218 1105  16.00   5.00  11.10   5.80   1.05    .55  .426E-01  -15.00   2.50 P1C-F    2 
+861218 1105  19.00  20.00   5.50   3.60    .52    .34  .102E-01   -7.00   1.00 R-N1E    3 
+861218 1105  42.00   4.00   4.80   3.80    .45    .36  .120E-01  -15.00   5.00 R3B-F    2 
+861218 1105  45.00  10.00  24.00   8.25   2.26    .78  .123E+00  -15.00   1.50 R2B-FA   1 
+861218 1105  57.00   8.00   8.40   2.20    .79    .21  .233E-02   -7.00   1.00 N2C      2 
+861218 1105  62.00  18.00   7.50   5.50    .71    .52  .364E-01  -15.00   5.00 R3B-F    2 
+861218 1105  64.00   7.00  23.30  11.80   2.19   1.11  .359E+00  -15.00   3.50 R-P2F    1 
+861218 1105  76.00  14.00  28.00  10.64   2.64   1.00  .263E+00  -15.00   1.50 R2B-F    1 
+861218 1105  80.00   3.00  21.50   8.70   2.02    .82  .144E+00  -15.00   1.50 R2B-F    1 
+861218 1105  28.00  26.00   9.00   6.50    .85    .61  .600E-01  999.00 999.00 R4B      2 
+861218 1105  42.00  25.00   8.00   3.70    .75    .35  .111E-01  -15.00   1.50 P1E-FA   2 
+861218 1105  46.00  28.00  12.10   3.90   1.14    .37  .130E-01  -15.00   1.50 P1E-F    1 
+861218 1105  48.00  33.00   5.50   2.80    .52    .26  .480E-02  999.00 999.00 I4       0 
+861218 1105  54.00  25.00  20.00   9.70   1.88    .91  .199E+00  -15.00   5.00 R3B-FA   1 
+861218 1105  52.00  32.00   7.60   4.10    .72    .39  .151E-01  999.00 999.00 I4       0 
